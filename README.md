@@ -1,4 +1,4 @@
-# 🎬 Busca de Filmes
+<img width="400" height="250" alt="demo" src="https://github.com/user-attachments/assets/f1c4dc4e-69d6-402d-a011-2f468a53b8f6" /># 🎬 Busca de Filmes
 
 Projeto de estudo desenvolvido com **HTML, CSS e JavaScript puro**, que consome a [OMDb API](https://www.omdbapi.com/) (API pública listada em [public-apis](https://github.com/public-apis/public-apis)) para buscar informações de filmes a partir de um campo de texto.
 
@@ -42,6 +42,10 @@ O usuário digita o nome de um filme em um campo de busca e, ao clicar no botão
    ```
 
 4. Abra o arquivo `index.html` no navegador (não precisa de servidor).
+
+## 🎥 Demonstração
+
+![Demonstração do projeto](demo.gif)
 
 ## 📚 Contexto acadêmico
 
