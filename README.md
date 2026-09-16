@@ -49,7 +49,7 @@ O usuário digita o nome de um filme em um campo de busca e, ao clicar no botão
 
 ## 📚 Contexto acadêmico
 
-Projeto desenvolvido como atividade da disciplina, com o requisito de utilizar uma API pública da lista [public-apis](https://github.com/public-apis/public-apis) (exceto a ViaCEP).
+Projeto desenvolvido como atividade da disciplina, com o requisito de utilizar uma API pública da lista [public-apis](https://github.com/public-apis/public-apis).
 
 ## 📄 Licença
 
