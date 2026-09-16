@@ -2,7 +2,7 @@
     const botaoBuscar = document.getElementById('botaoBuscar');
     const resultado = document.getElementById('resultado');
 
-    const apiKey = "e64e1e1c";
+    const apiKey = "SUA_KEY";
 
 botaoBuscar.addEventListener('click', function() {
     const nomeFilme = campoBusca.value;
